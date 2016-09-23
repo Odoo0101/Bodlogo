@@ -12,5 +12,5 @@ main()
 			        k=k*i;
 				}						
 		}	
-         printf("%d %d", s,k);//
+         printf("%d %d", s,k);//test
 }
